@@ -1,0 +1,6 @@
+@import url(base.css);
+@import url(responsivo.css);
+
+body {
+  display: grid;
+}
